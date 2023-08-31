@@ -7,8 +7,10 @@ python -m venv C:\Users\LEEF6251\GIT\SVA\venv
 SET HTTP_PROXY=http://127.0.0.1:3128
 SET HTTPS_PROXY=http://127.0.0.1:3128
 
+cd C:\Users\LEEF6251\GIT\SVA
+
 #Activer l'environnement virtuel
-.\Scripts\activate
+.\venv\Scripts\activate
 
 python -m pip install --upgrade pip
 
@@ -29,3 +31,9 @@ python -m pip install mkdocs-redirects
 #https://github.com/fralau/mkdocs-mermaid2-plugin
 
 python -m pip install mkdocs-mermaid2-plugin
+
+#Créer le fichier requirements.txt
+pip freeze > requirements.txt
+
+#Lancer MkDocs en mode serve
+.\venv\Scripts\mkdocs serve
