@@ -1,1 +1,16 @@
-site_name: My Docs
+site_name: Le Petit Roque de Sèvres Ville-d'Avray
+site_url: https://lfaber91.github.io/site_sva
+nav:
+  - Accueil: index.md
+  - Inscription: inscription.md
+  - A Propos: about.md
+theme:
+    name: simplex
+    custom_dir: custom_theme/
+
+plugins:
+  - search
+  - mermaid2:
+      version: 10.0.2
+      arguments:
+        securityLevel: 'loose'
