@@ -19,6 +19,7 @@ python -m pip install mkdocs
 
 #Installtion du thème Bootswatch pour MkDocs
 #https://github.com/mkdocs/mkdocs-bootswatch
+#https://bootswatch.com/simplex/
 
 python -m pip install mkdocs-bootswatch
 

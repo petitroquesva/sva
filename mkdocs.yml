@@ -8,6 +8,9 @@ theme:
     name: simplex
     custom_dir: custom_theme/
 
+extra_css:
+  - css/style.css
+
 plugins:
   - search
   - mermaid2:
