@@ -4,6 +4,7 @@ nav:
   - Accueil: accueil.md
   - Inscription: inscription.md
   - Horaires: horaires.md
+  - Cours: cours.md
   - Blog: index.md
   - A Propos: about.md
 theme:
