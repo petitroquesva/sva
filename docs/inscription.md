@@ -1,18 +1,30 @@
-Adhésion au club:
+#Première inscription:
+
++ Télécharger et remplir la [fiche inscription 2023-2024](resources/Fiche-inscription-2023-2024.docx)
++ Remettre la fiche d'inscription remplie à **Gérard Masson** ou **Jean-Pierre Le Gléau** au club
+
+<hr/>
+#Première présentation:
 
 + Télécharger, remplir et transmettre la [fiche inscription 2023-2024](resources/Fiche-inscription-2023-2024.docx)
 
 
 
 + Pour une licence A (compétition):
-    + lire le Questionnaire Santé relatif [aux majeurs](resources/2-questionnaire_majeur.pdf) ou [aux mineurs](resources/2-questionnaire_mineur.pdf)
-        + si __NON__ à toutes les réponses, fournir [l'attestation de réponse négative](resources/2-Attestation_negative.pdf)
-        + si __OUI__ à au moins une réponse, fournir un __certificat médical de moins de 3 ans__.
+    + Lire le Questionnaire Santé relatif [aux majeurs](resources/2-questionnaire_majeur.pdf) ou [aux mineurs](resources/2-questionnaire_mineur.pdf)
+        + Si __NON__ à toutes les réponses, fournir [l'attestation de réponse négative](resources/2-Attestation_negative.pdf)
+        + Si __OUI__ à au moins une réponse, fournir un __certificat médical de moins de 3 ans__.
 
 <div class="alert alert-dismissible alert-success">
   Si le certificat médical a été établi il y a <strong>2 ans</strong> pour une autre activité sportive, il est également <strong>valable</strong> !.
 </div>
 
++ [Régler votre cotisation](cotisation.md)
+<hr/>
+
+#Deuxième présentation:
+
++ Télécharger, remplir et transmettre la [fiche inscription 2023-2024](resources/Fiche-inscription-2023-2024.docx)
 
 
 <ul class="nav nav-tabs" role="tablist">
@@ -26,21 +38,28 @@ Adhésion au club:
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active show" id="licenceA" role="tabpanel">
 <div>
-<li> lire le Questionnaire Santé relatif <a href="./../resources/2-questionnaire_majeur.pdf">aux majeurs</a> ou <a href="./../resources/2-questionnaire_mineur.pdf">aux mineurs</a></li>
-<li> si <strong>NON</strong> à toutes les réponses, <a href="./../resources/2-Attestation_negative.pdf">l'attestation de réponse négative</a></li>
-<li> si <strong>OUI</strong> à au moins une réponse, fournir un <strong>certificat médical de moins de 3 ans</strong>.</li>
+<li> Lire le Questionnaire Santé relatif <a href="./../resources/2-questionnaire_majeur.pdf">aux majeurs</a> ou <a href="./../resources/2-questionnaire_mineur.pdf">aux mineurs</a></li>
+<li> Si <strong>NON</strong> à toutes les réponses, <a href="./../resources/2-Attestation_negative.pdf">l'attestation de réponse négative</a></li>
+<li> Si <strong>OUI</strong> à au moins une réponse, fournir un <strong>certificat médical de moins de 3 ans</strong>.</li>
 </div>
 <br/>
 <div class="alert alert-dismissible alert-success">
   Si le certificat médical a été établi il y a <strong>2 ans</strong> pour une autre activité sportive, il est également <strong>valable</strong> !.
 </div>
+<div>
+<li> <a href ="./../cotisation">Régler votre cotisation</a></li>
+</div>
 
   </div>
-  <span class="tab-pane fade" id="licenceB" role="tabpanel">
-    <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
-  </span>
+  <div class="tab-pane fade" id="licenceB" role="tabpanel">
+<li> Vous n'avez pas besoin de lire le questionnaire de santé.</li>
+<li> <a href ="./../cotisation">Régler votre cotisation</a></li>
+  </div>
 </div>
-                  
+
+<hr/>
+
+#Troisième présentation:
 
 ```mermaid
 flowchart TD
