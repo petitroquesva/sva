@@ -1,8 +1,9 @@
 site_name: Le Petit Roque de Sèvres Ville-d'Avray
 site_url: https://lfaber91.github.io/site_sva
 nav:
-  - Accueil: index.md
+  - Accueil: accueil.md
   - Inscription: inscription.md
+  - Blog: index.md
   - A Propos: about.md
 theme:
     name: simplex
@@ -17,3 +18,15 @@ plugins:
       version: 10.0.2
       arguments:
         securityLevel: 'loose'
+  - blogging:
+      dirs:
+        - blog
+      features:
+        tags:
+          index_page: tags.md
+          insert: top
+      theme:
+        name: button
+        options:
+          plain_button: false
+          label: Lire
