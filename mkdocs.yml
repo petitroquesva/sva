@@ -6,6 +6,8 @@ nav:
   - Horaires & Cours:
     - Horaires: horaires.md
     - Cours: cours.md
+  - Effectifs: effectifs.md
+  - Contact: contact.md
   - Blog: index.md
   - A Propos: about.md
 theme:
