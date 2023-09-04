@@ -3,8 +3,9 @@ site_url: https://lfaber91.github.io/site_sva
 nav:
   - Accueil: accueil.md
   - Inscription: inscription.md
-  - Horaires: horaires.md
-  - Cours: cours.md
+  - Horaires & Cours:
+    - Horaires: horaires.md
+    - Cours: cours.md
   - Blog: index.md
   - A Propos: about.md
 theme:
