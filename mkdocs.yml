@@ -1,5 +1,5 @@
 site_name: Le Petit Roque de Sèvres Ville-d'Avray
-site_url: https://lfaber91.github.io/site_sva
+site_url: https://lfaber91.github.io/SVA
 nav:
   - Accueil: accueil.md
   - Inscription: inscription.md
@@ -8,6 +8,11 @@ nav:
     - Cours: cours.md
   - Effectifs: effectifs.md
   - Contact: contact.md
+  - Divers:
+      - Problèmes: problemes.md
+      - Ressources Pédagogiques: ressources_pedagogiques_ffe.md
+      - Lectures: lectures.md
+      - Liens: liens.md
   - Blog: index.md
   - A Propos: about.md
 theme:
