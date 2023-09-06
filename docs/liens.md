@@ -36,7 +36,7 @@ date: 2023-09-06
 <br/>
 
 <div class="card text-bg-dark">
-  <a href="http://www.idf-echecs.com/"><img src="./../img/liens/ligue_idf_logo.png" class="card-img" alt="Logo de la ligue Ile-de-France des Echecs">
+  <a href="http://www.idf-echecs.com/"><img src="./../img/liens/ligue_idf_logo.png" width=auto" height="350" alt="Logo de la ligue Ile-de-France des Echecs">
   <div class="card-img-overlay">
     <h5 class="card-title">Site de la ligue Ile-de-France des Echecs</h5>
   </div>
@@ -49,7 +49,7 @@ date: 2023-09-06
 <br/>
 
 <div class="card text-bg-dark">
-  <a href="https://www.hauts-de-seine.fr/"><img src="./../img/liens/logo-hauts-de-seine.jpg" class="card-img" alt="Logo du Conseil Général des hauts de Seine (92)">
+  <a href="https://www.hauts-de-seine.fr/"><img src="./../img/liens/logo-hauts-de-seine.jpg" width=auto" height="350" alt="Logo du Conseil Général des hauts de Seine (92)">
   <div class="card-img-overlay">
     <h5 class="card-title">Site du Conseil Général des hauts de Seine (92)</h5>
   </div>
@@ -57,11 +57,10 @@ date: 2023-09-06
 </div>
 
 <br/>
-+ <a href="https://www.hauts-de-seine.fr/">Conseil Général des Hauts-de-Seine (92)</a>
-<br/>
+
 
 <div class="card text-bg-dark">
-  <a href="https://www.sevres.fr/"><img src="./../img/liens/logo-sevres.png" class="card-img" alt="Logo de la Mairie de la ville de Sèvres">
+  <a href="https://www.sevres.fr/"><img src="./../img/liens/logo-sevres.png" width=auto" height="350" alt="Logo de la Mairie de la ville de Sèvres">
   <div class="card-img-overlay">
     <h5 class="card-title">Site de la Mairie de la ville de Sèvres</h5>
   </div>
@@ -69,4 +68,4 @@ date: 2023-09-06
 </div>
 
 <br/>
-+ <a href="https://www.sevres.fr/">Mairie de la ville de Sèvres</a>
+
