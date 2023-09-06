@@ -1,3 +1,11 @@
+---
+title: Informations administratives
+summary: Cette page regroupe l'ensemble des informations administratives: siège social de l'association, 
+membres du bureau et du comité directeur, responsable des compétitions et du site internet.
+authors:
+    - Laurent Faber
+date: 2023-09-06
+---
 # Petit Roque SVA
 
 Le Petit Roque de Sèvres – Ville d’Avray

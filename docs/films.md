@@ -1,3 +1,10 @@
+---
+title: Films
+summary: Liste de films autour du jeu d'échecs.
+authors:
+    - Laurent Faber
+date: 2023-09-06
+---
 Voici quelques oeuvres du 7ème art autour des échecs:
 
 + Le Prodige (2016) décrivant la vie de Bobby Fischer:

@@ -1,3 +1,10 @@
+---
+title: Horaires et salles du club
+summary: Cette page précise les jours et heures d'ouvertures du club, ainsi que les salles où se déroulent les activités.
+authors:
+    - Laurent Faber
+date: 2023-09-06
+---
 # Horaires d'ouverture du club:
 
 + le mercredi de 14 heures à 18 heures (salles Petit Roque et de Ville d’Avray)

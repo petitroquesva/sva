@@ -1,3 +1,10 @@
+---
+title: Films
+summary: Liste de livres autour du jeu d'échecs.
+authors:
+    - Laurent Faber
+date: 2023-09-06
+---
 Voici une liste d’œuvres littéraires que le Petit Roque vous recommande :
 
 + Joueur d’échecs, de Maxime Vachier-Lagrave, Ed. Fayard

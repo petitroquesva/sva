@@ -1,3 +1,10 @@
+---
+title: Contact
+summary: Comment contacter le club.
+authors:
+    - Laurent Faber
+date: 2023-09-06
+---
 Vous pouvez nous contacter de plusieurs façons:
 
 <button type="button" class="btn btn-primary">

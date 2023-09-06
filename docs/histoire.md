@@ -1,3 +1,10 @@
+---
+title: Histoire du club
+summary: Cette page décrit l'évolution du clun de sa fondation jusqu'à aujourd'hui.
+authors:
+    - Laurent Faber
+date: 2023-09-06
+---
 ![Fondateurs](img/histoire/fondateur.webp)
 
 ## Les débuts

@@ -1,3 +1,10 @@
+---
+title: Inscription au club
+summary: Cette page décrit les documents à fournir pour l'inscription au club.
+authors:
+    - Laurent Faber
+date: 2023-09-06
+---
 #Première inscription:
 
 + Télécharger et remplir la [fiche inscription 2023-2024](resources/Fiche-inscription-2023-2024.docx)

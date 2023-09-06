@@ -18,7 +18,6 @@ nav:
       - Histoire du club: histoire.md
       - Liens: liens.md
   - Blog: index.md
-  - A Propos: about.md
 theme:
     name: simplex
     custom_dir: custom_theme/

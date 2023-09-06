@@ -1,5 +1,8 @@
 ---
-title: Informations sur les cours au club
+title: Les cours au club
+summary: Informations sur les différents cours (jeunes & adultes) proposés par le club.
+authors:
+    - Laurent Faber
 date: 2023-09-04
 ---
 
