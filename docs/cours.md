@@ -6,7 +6,10 @@ authors:
 date: 2023-09-04
 ---
 
-Les cours ont lieu en périodes scolaires
+<div class="alert alert-success" role="alert">
+Les cours ont lieu en <strong>période scolaire</strong>
+</div>
+
 
 ## Cours jeunes
 
