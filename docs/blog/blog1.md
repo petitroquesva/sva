@@ -1,11 +1,32 @@
 ---
-title: Je teste mon blog
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+title: Les joueurs du club au championnat de Paris 2023
+description: Plusieurs joueurs ont participé aux différents opens du championnat de Paris 2023.
 # Additional metadata can be used in the template
 author: Laurent Faber
+date: 2023-07-31
 tags:
-  - fun
-  - python
+  - championnat de Paris
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Aperçu championnat de Paris](img/ambiance_r1_ch_paris_2023.jpeg)
+
+Plusieurs joueurs de notre club ont participé aux différents opens du championnat de Paris 2023 et ont bravé
+les conditions spartiates proposées par la ligue (gymnase non climatisé avec une chaleur à plus de 30° !).
+Voici les résultats, mitigés, de nos joueurs par open.
+
+Saluons la belle performance de notre secrétaire, Gérard Masson, qui est le seul à gagner des points ELO (+15 pts !)
+
+##Open A:
+
+- Pierre SAGUIN termine 64ème avec 4,5/9 et une perf à 1879 (-12 pts)
+
+##Open B:
+
+- Pascal COLLIN termine 60ème avec 5/9 et une perf à 1621 (-4 pts)
+- Eric LARZILLIERE termine 160ème avec 3/9 et une perf à 1424 (-2 pts)
+- Gérard MASSON termine 95ème avec 4,5/9 et une perf à 1586 (+15 pts)
+- Leone ORIOL termine 151ème avec 3/9 et une perf à 1476 (-11 pts)
+
+##Open C:
+
+- Yoan LARZILLIERE termine 19ème avec 6/9 et une perf à 1344 (-6 pts) 
