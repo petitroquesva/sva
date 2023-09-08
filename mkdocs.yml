@@ -49,6 +49,9 @@ plugins:
         options:
           plain_button: false
           label: Lire
+  - redirects:
+      redirect_maps:
+        'accueil.md': 'accueil_2.md'
 
 markdown_extensions:
   - toc:
