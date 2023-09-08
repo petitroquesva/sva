@@ -6,5 +6,6 @@ authors:
 date: 2023-09-06
 ---
 #Problème du jour
-
-<iframe src="https://livetactics.chessbase.com" width="500" height="540"></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://livetactics.chessbase.com"></iframe>
+</div>

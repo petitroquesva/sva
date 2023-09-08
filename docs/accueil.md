@@ -34,7 +34,11 @@ date: 2023-09-06
           <div class="col-lg-12">
               <div class="alert alert-dismissible alert-danger">
                 <p>Essayez de résoudre nos <strong><a href="./../problemes" class="alert-link">exercices tactiques</a></strong>.</p>
-                <p><iframe src="https://livetactics.chessbase.com" width="500" height="540"></iframe></p>
+                <p>
+                    <div class="embed-responsive embed-responsive-16by9">
+                       <iframe class="embed-responsive-item" src="https://livetactics.chessbase.com"></iframe>
+                    </div>
+                </p>
               </div>
           </div>
 </div>
