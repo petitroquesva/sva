@@ -28,9 +28,17 @@ Localisation
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle-fill" viewBox="0 0 16 16">
   <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"></path>
 </svg>
-</button> Cours jeunes et parties libres les Mercredi et Samedi hors vacances scolaires,
+</button>
+<ul>
+<li>Cours jeunes et parties libres les Mercredi et Samedi hors vacances scolaires</li>
 
-Compétitions (Nationale IV-1 et IV-2, Critérium Cavaliers et Pions) les Dimanches
+<li>Compétitions (Nationale IV-1 et IV-2, Critérium Cavaliers et Pions) les Dimanches</li>
+</ul>
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2626.8594909841872!2d2.2098828!3d48.8227423!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67b0bef9108e3%3A0x65136386fa4e15a6!2s64%20Rue%20des%20Binelles%2C%2092310%20S%C3%A8vres!5e0!3m2!1sfr!2sfr!4v1694182289487!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 
 # Salles Atlas, Neptune et Uranus
 
@@ -64,6 +72,11 @@ Localisation
 </svg>
 </button> Compétitions National II, Coupe de FRANCE, Départementales II et III, et stages
 
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2627.2622362907387!2d2.2106833764053833!3d48.81505777132636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67ba6c15e7203%3A0x2c4ff114f01e96fc!2s4%20Rue%20de%20Wolfenbuttel%2C%2092310%20S%C3%A8vres!5e0!3m2!1sfr!2sfr!4v1694182591382!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 # Salle de Ville d’Avray
 
 <button type="button" class="btn btn-primary">
@@ -79,3 +92,7 @@ Localisation
   <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"></path>
 </svg>
 </button> Cours Jeunes du mercredi après-midi
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2626.606375706788!2d2.183905276406102!3d48.82757137132804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67b6472545e03%3A0xdfcef008e67650a2!2sClub%20d&#39;%C3%A9checs%20de%20Ville%20d&#39;Avray!5e0!3m2!1sfr!2sfr!4v1694182763128!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
