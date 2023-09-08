@@ -8,13 +8,17 @@ tags:
   - championnat de Paris
 ---
 
-![Aperçu championnat de Paris](img/ambiance_r1_ch_paris_2023.jpeg)
-
-Plusieurs joueurs de notre club ont participé aux différents opens du championnat de Paris 2023 et ont bravé
+<div class="card mb-3">
+  <img src="./../img/ambiance_r1_ch_paris_2023.jpeg" class="card-img-top" alt="Aperçu championnat de Paris">
+  <div class="card-body">
+    <h5 class="card-title">Aperçu du championnat de Paris</h5>
+    <p class="card-text">Plusieurs joueurs de notre club ont participé aux différents opens du championnat de Paris 2023 et ont bravé
 les conditions spartiates proposées par la ligue (gymnase non climatisé avec une chaleur à plus de 30° !).
-Voici les résultats, mitigés, de nos joueurs par open.
+Voici les résultats, mitigés, de nos joueurs par open.</p>
+  </div>
+</div>
 
-Saluons la belle performance de notre secrétaire, Gérard Masson, qui est le seul à gagner des points ELO (+15 pts !)
+Saluons la belle performance de notre secrétaire, <strong>Gérard Masson</strong>, qui est le seul à gagner des points ELO (+15 pts !)
 
 ##Open A:
 
