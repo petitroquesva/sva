@@ -8,9 +8,7 @@ nav:
     - Horaires: horaires.md
     - Cours: cours.md
   - Effectifs: effectifs.md
-  - Contact:
-    - Contactez nous: contact.md
-    - Administratif: administratif.md
+  - Contact: contact.md
   - Divers:
       - Problèmes: problemes.md
       - Ressources Pédagogiques: ressources_pedagogiques_ffe.md
@@ -56,3 +54,4 @@ plugins:
 markdown_extensions:
   - toc:
       permalink: true
+  - md_in_html
