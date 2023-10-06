@@ -31,4 +31,4 @@ date: 2023-09-06
   Si le certificat médical a été établi il y a <strong>2 ans</strong> pour une autre activité sportive, il est également <strong>valable</strong> !.
 </div>
 
-+ [Régler votre cotisation](cotisation.md)
++ <p>[Régler votre cotisation](cotisation.md)</p>

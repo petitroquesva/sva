@@ -7,8 +7,8 @@ date: 2023-09-06
 ---
 # 2 types de cotisations:
 
-+ licence __A__: pour les compétitions (durée de partie supérieur ou égale à 60 minutes)
-+ licence __B__: pour les loisirs, parties rapides (moins de 60 minutes) ou blitz
++ <p>licence __A__: pour les compétitions (durée de partie supérieur ou égale à 60 minutes)</p>
++ <p>licence __B__: pour les loisirs, parties rapides (moins de 60 minutes) ou blitz</p>
 
 ## Licence A
 
