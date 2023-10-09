@@ -52,7 +52,7 @@ plugins:
           label: Lire
   - redirects:
       redirect_maps:
-        'accueil.md': 'accueil_2.md'
+        'accueil.md': 'accueil_competitions.md'
 
 markdown_extensions:
   - toc:

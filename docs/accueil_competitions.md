@@ -1,6 +1,6 @@
 ---
 title: Accueil
-summary: La page d'accueil du site du club.
+summary: La page d'accueil du site du club avec lien vers inscription et compétitions
 authors:
     - Laurent Faber
 date: 2023-09-06
@@ -15,6 +15,7 @@ date: 2023-09-06
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="bs-component">
+<a href="./../competitionsq">
 					<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
 						<div class="card-header">Compétitions</div>
 						<div class="card-body">
