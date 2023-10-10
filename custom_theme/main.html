@@ -6,6 +6,12 @@
     <script src="{{ base_url }}/js/jquery.min.js"></script>
 {% endblock %}
 
+{%- block next_prev %}
+  {%- if page and (page.next_page or page.previous_page) %}
+  {%- endif %}
+{%- endblock %}
+
+
 {%- block footer %}
     <hr>
     {%- if config.copyright %}

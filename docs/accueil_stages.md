@@ -15,12 +15,12 @@ date: 2023-09-06
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="bs-component">
-<a href="./../competitions">
+<a href="./../stages">
 					<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-						<div class="card-header">Compétitions</div>
+						<div class="card-header">Stage jeunes Toussaint 2023</div>
 						<div class="card-body">
-                            <img src="./../img/accueil/chessboard_clock.jpg" alt="Echiquier et pendule">
-							<p class="card-text">Page dédiée aux différentes compétitions auxquelles le club participe.</p>
+                            <img src="./../img/stages/affiche_vda_toussaint_2023.jpg" alt="Affiche stage jeunes Toussaint 2023">
+							<p class="card-text">Informations sur le stage jeunes Toussaint 2023 au château de Ville d'Avray.</p>
 						</div>
 					</div>
 				</div>
@@ -29,7 +29,7 @@ date: 2023-09-06
 				<div class="bs-component">
 <a href="./../inscription">
 					<div class="card text-black border-secondary mb-3" style="max-width: 20rem;">
-                        <div class="card-header">Inscriptions</div>
+                        <div class="card-header">Inscription au club</div>
 						<div class="card-body">
                             <img src="./../img/accueil/inscrivez_vous.jpg" alt="Inscrivez-vous">
 							<p class="card-text">Pour vous inscrire au club c'est par ici.</p>
