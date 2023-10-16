@@ -2,7 +2,7 @@ site_name: Le Petit Roque de Sèvres Ville-d'Avray
 site_url: https://petitroquesva.github.io/sva
 
 nav:
-  - Accueil: accueil.md
+  - Accueil: index.md
   - Inscription:
     - Inscription: inscription.md
     - Cotisation: cotisation.md
@@ -20,7 +20,7 @@ nav:
       - Films: films.md
       - Histoire du club: histoire.md
       - Liens: liens.md
-  - Blog: index.md
+  - Blog: blog.md
 
 theme:
     name: simplex
@@ -53,7 +53,7 @@ plugins:
           label: Lire
   - redirects:
       redirect_maps:
-        'accueil.md': 'accueil_stages.md'
+        'index.md': 'accueil_stages.md'
 
 markdown_extensions:
   - toc:
