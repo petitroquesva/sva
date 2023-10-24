@@ -1,3 +1,20 @@
+######################### GIT repositories ###########################################################
+## petitroquesva.github.io: https://github.com/petitroquesva/petitroquesva.github.io.git            ## 
+## git remote show origin: https://github.com/petitroquesva/petitroquesva.github.io.git             ##
+## SVA: https://github.com/petitroquesva/sva.git                                                    ##
+## git remote show origin: https://github.com/petitroquesva/sva.git                                 ##
+######################################################################################################
+
+
+
+cd C:\Users\LEEF6251\GIT\
+
+mkdir SVA
+mkdir petitroquesva.github.io
+
+
+cd SVA
+
 #Création environnement virtuel avec python 3.11
 
 python -m venv C:\Users\LEEF6251\GIT\SVA\venv
@@ -52,3 +69,8 @@ cd js
 
 #Lancer MkDocs en mode serve
 .\venv\Scripts\mkdocs serve
+
+#Déployer le site sur gitHub Pages
+cd ..\petitroquesva.github.io\
+
+..\SVA\venv\Scripts\mkdocs gh-deploy --config-file ../SVA/mkdocs.yml --remote-branch master
