@@ -1,5 +1,5 @@
 site_name: Le Petit Roque de Sèvres Ville-d'Avray
-site_url: https://petitroquesva.github.io/sva
+site_url: https://petitroquesva.github.io
 
 nav:
   - Accueil: index.md
