@@ -6,7 +6,7 @@ authors:
 date: 2023-09-06
 ---
 
-#Bienvenue sur le site du club d'échecs de Sèves Ville-d'Avray !
+## Bienvenue sur le site du club d'échecs de Sèvres Ville-d'Avray !
 
 <br/>
 <br/>
