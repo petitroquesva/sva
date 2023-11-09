@@ -17,10 +17,10 @@ date: 2023-09-06
 				<div class="bs-component">
 <a href="./../stages">
 					<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-						<div class="card-header">Stage jeunes Toussaint 2023</div>
+						<div class="card-header">Stage jeunes Fin d'année 2023</div>
 						<div class="card-body">
-                            <img src="./../img/stages/affiche_vda_toussaint_2023.jpg" alt="Affiche stage jeunes Toussaint 2023">
-							<p class="card-text">Informations sur le stage jeunes Toussaint 2023 au château de Ville d'Avray.</p>
+                            <img src="./../img/stages/affiche_vda_noel_2023.jpg" alt="Affiche stage jeunes Fin année 2023">
+							<p class="card-text">Informations sur le stage jeunes fin d'année 2023 à Ville d'Avray.</p>
 						</div>
 					</div>
 				</div>
