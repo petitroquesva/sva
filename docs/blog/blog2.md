@@ -1,7 +1,6 @@
 ---
 title: Les joueurs du club au championnat de France 2023
 description: Un représentant du club de Sèvres au championnat de France 2023.
-# Additional metadata can be used in the template
 author: Laurent Faber
 date: 2023-08-31
 tags:

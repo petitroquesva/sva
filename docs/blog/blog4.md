@@ -1,11 +1,10 @@
 ---
 title: Reprise des interclubs
 description: Reprise des compétitions Interclubs pour le club de Sèvres Ville d'Avray.
-# Additional metadata can be used in the template
 author: Laurent Faber
 date: 2023-10-14
 tags:
-  - stages
+  - compétitions
 ---
 
 Les compétitions Interclubs Adultes reprennent ce week-end.

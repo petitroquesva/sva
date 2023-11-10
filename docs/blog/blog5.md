@@ -1,7 +1,6 @@
 ---
 title: Stage jeunes Fin d'année 2023
 description: Informations sur le stage jeunes de Fin d'année 2023 organisé par le club.
-# Additional metadata can be used in the template
 author: Laurent Faber
 date: 2023-11-09
 tags:
