@@ -6,7 +6,7 @@ date: 2023-11-10
 tags:
   - open de Sèvres
 ---
-# Open rapide de Sèvres du 17/09/2023 : une brillante 30ème édition !
+<h1 style="text-align:center;">Open rapide de Sèvres du 17/09/2023 : une brillante 30ème édition !</h1>
 <br/>
 <p>Pour sa 30ème édition, notre club se devait de proposer un open rapide d’excellente qualité : 86 joueurs étaient ainsi inscrits, dont 2 Grands-Maîtres Internationaux, 2 Maîtres Internationaux et 4 Maîtres FIDE.</p>
 
