@@ -11,6 +11,22 @@ date: 2023-09-06
 <br/>
 <br/>
 <div class="container">
+
+<div class="bs-docs-section">
+<div class="row">
+<div class="col-lg-12">
+<div class="text-center"><p><a href="./../blog/blog9/">Retrouvez ici l'hommage rendu à Guy Sobrecases par Marc Saguin,
+président&nbspdu&nbspclub&nbspd'échecs&nbspde&nbspSèvres&nbspVille&nbspd'Avray</a></p>
+		  
+		  <figure>
+  <img src="./../blog/img/guy_sobrecases_2024.jpg" class="card-img-top" alt="Guy Sobrecases" style="max-width: 80%">
+</figure>
+</div>
+</div>
+</div>
+<div/>
+
+
 	<div class="bs-docs-section">
 		<div class="row">
 			<div class="col-lg-6">
