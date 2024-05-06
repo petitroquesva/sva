@@ -29,7 +29,7 @@ Guy incarnait l'esprit même du jeu d'échecs. Sa passion pour le jeu était con
 
 Par les stages qu’il organisait pour les jeunes, Guy leur a fait pratiquer de multiples activités qui faisaient leur bonheur : tyrolienne, escalade, piscine, voile et même des séances d’astronomie.
 
-Enfin, ses qualités humaines étaient aussi remarquables que son talent aux échecs. Toujours à l'écoute, doté d'une empathie sincère et d'un humour inégalable, Guy était bien plus qu'un simple formateur ; il était l’ami de tous. Voici quelques témoignages de membres du club :
+Enfin, ses qualités humaines étaient aussi remarquables que son talent aux échecs. Toujours à l'écoute, doté d'une empathie sincère et d'un humour inégalable, Guy était bien plus qu'un simple formateur, il était l’ami de tous. Voici quelques témoignages de membres du club :
 
 - Pascal, notre ancien président a dit : « Guy avait installé une force et un investissement au sein du Petit-Roque qui lui avaient permis d’atteindre un niveau inégalé à ce jour, tout en prodiguant son savoir avec amour du jeu, auprès de tous ! Il manque déjà, car c’était une personne à l’écoute des autres et doté d’une réelle empathie et d’un humour indéniable. »
 
