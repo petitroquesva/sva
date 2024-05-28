@@ -12,6 +12,20 @@ date: 2023-09-06
 <br/>
 <div class="container">
 
+
+<div class="bs-docs-section">
+<div class="row">
+<div class="col-lg-12">
+<div class="text-center"><a href="./../blog/blog10/"><p>Le club organise une simultanée dans ses locaux le 23 juin 2024 !</p>
+<p>Retrouvez les détails ici.
+</p></a>
+</div>
+</div>
+</div>
+<div/>
+
+<hr>
+
 <div class="bs-docs-section">
 <div class="row">
 <div class="col-lg-12">
@@ -26,6 +40,7 @@ président&nbspdu&nbspclub&nbspd'échecs&nbspde&nbspSèvres&nbspVille&nbspd'Avra
 </div>
 <div/>
 
+<hr>
 
 	<div class="bs-docs-section">
 		<div class="row">
