@@ -31,7 +31,6 @@ date: 2023-09-06
 			</div>
 		</div>
 	</div>
-<hr>
 	<div class="bs-docs-section">
 		<div class="row">
 			<div class="col-lg-6">
