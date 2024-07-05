@@ -56,7 +56,7 @@ plugins:
           label: Lire
   - redirects:
       redirect_maps:
-        'index.md': 'accueil_competitions.md'
+        'index.md': 'accueil_vacances.md'
 
 markdown_extensions:
   - toc:
