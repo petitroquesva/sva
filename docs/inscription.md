@@ -7,7 +7,7 @@ date: 2023-09-06
 ---
 # Démarche:
 
-+ <p>Télécharger et remplir la [fiche inscription 2023-2024](resources/Fiche-inscription-2023-2024.docx)</p>
++ <p>Télécharger et remplir la [fiche inscription 2024-2025](resources/Fiche-inscription-2024-2025.docx)</p>
 + <p>Remettre la fiche d'inscription remplie à **Gérard Masson** ou **Jean-Pierre Le Gléau** au club</p>
 
 + <p>Lire le Questionnaire Santé relatif [aux majeurs](resources/2-questionnaire_majeur.pdf) ou [aux mineurs](resources/2-questionnaire_mineur.pdf)</p>

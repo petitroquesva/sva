@@ -121,6 +121,12 @@ Localisation
       <td>X</td>
       <td></td>
     </tr>
+    <tr>
+      <th scope="row">Administrateur</th>
+      <td>Eric Larzilliere</td>
+      <td>X</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 

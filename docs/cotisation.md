@@ -27,7 +27,7 @@ Adulte né en 2003 ou avant       | 95 €
 
 Pour régler votre cotisation, vous pouvez:
 
-+ Venir au club en apportant votre [fiche inscription 2023-2024](resources/Fiche-inscription-2023-2024.docx) remplie.
++ Venir au club en apportant votre [fiche inscription 2024-2025](resources/Fiche-inscription-2024-2025.docx) remplie.
 
 + Si vous utilisez plusieurs moyens de paiement (cash, Pass, chèque bancaire ou chèque-vacances), veuillez contacter un
 des dirigeants avec votre fiche d’inscription renseignée.

@@ -15,6 +15,15 @@ date: 2023-09-06
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="text-center">
+					<p>Retrouvez les <a href="./../blog/blog12/">informations</a> sur le 31ème open rapide de Sèvres Ville d'Avray.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="bs-docs-section">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="text-center">
 					<p>Le club d'échecs de Sèvres Ville d'Avray vous souhaite de passer d'agréables vacances</p>
 					<p>Rendez-vous à la rentrée !</p>
 					<img src="./../img/accueil/umbrella-and-towel.jpg" alt="Parasol et serviette" style="max-width:50%">
