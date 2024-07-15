@@ -7,21 +7,21 @@ date: 2023-09-06
 ---
 # 2 types de cotisations:
 
-+ <p>licence __A__: pour les compétitions (durée de partie supérieur ou égale à 60 minutes)</p>
-+ <p>licence __B__: pour les loisirs, parties rapides (moins de 60 minutes) ou blitz</p>
++ <p>licence __A__: pour les compétitions toutes cadences</p>
++ <p>licence __B__: pour les loisirs, parties rapides ou blitz</p>
 
 ## Licence A
 
 Licence A                        | Total
 :------------------------------- |:----------:
-Joueur né en 2013 ou avant       | 120 €
-Joueur né en 2014 ou après       | 150 €
+Joueur né en 2014 ou avant       | 120 €
+Joueur né en 2015 ou après       | 150 €
 
 ## Licence B
 
 Licence B                        | Total
 :------------------------------- |:----------:
-Adulte né en 2003 ou avant       | 95 €
+Adulte né en 2004 ou avant       | 95 €
 
 # Règlement
 
