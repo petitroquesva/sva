@@ -33,7 +33,7 @@ Pour régler votre cotisation, vous pouvez:
 des dirigeants avec votre fiche d’inscription renseignée.
 Vous pourrez aussi bénéficier d’une réduction de 20 € pour l’inscription d’un deuxième enfant.
 
-+ Payer votre inscription intégralement par carte bancaire
++ Payer votre inscription intégralement par carte bancaire <a target="_blank" href="https://www.billetweb.fr/inscription-au-petit-roque-sva-2024-2025"><img style="width:200px;" src="https://www.billetweb.fr/images/buttons/billetterie_bleu.png"></a>
 
 # Dispositif Pass+
 

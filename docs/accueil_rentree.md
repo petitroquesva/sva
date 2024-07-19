@@ -17,10 +17,9 @@ date: 2023-09-06
 				<div class="bs-component">
 <a href="./../blog/blog12/">
 					<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-						<div class="card-header">Stage jeunes Fin d'année 2023</div>
+						<div class="card-header">Inscription 31ème Open de Sèvres Ville d'Avray</div>
 						<div class="card-body">
-                            <img src="./../img/stages/affiche_vda_noel_2023.jpg" alt="Affiche stage jeunes Fin année 2023">
-							<p class="card-text">Informations sur le stage jeunes fin d'année 2023 à Ville d'Avray.</p>
+                            <img src="./../img/open/fiche_renseignement_31eme_open.png" alt="Fiche renseignement 31ème open de Sèvres Ville d'Avray">
 						</div>
 					</div>
 				</div>
@@ -29,7 +28,7 @@ date: 2023-09-06
 				<div class="bs-component">
 <a href="./../inscription">
 					<div class="card text-black border-secondary mb-3" style="max-width: 20rem;">
-                        <div class="card-header">Inscription au club</div>
+                        <div class="card-header">Inscription au club saison 2024-2025</div>
 						<div class="card-body">
                             <img src="./../img/accueil/inscrivez_vous.jpg" alt="Inscrivez-vous">
 							<p class="card-text">Pour vous inscrire au club c'est par ici.</p>
