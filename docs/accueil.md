@@ -7,6 +7,17 @@ date: 2023-09-06
 ---
 
 ## Bienvenue sur le site du club d'échecs de Sèvres Ville-d'Avray !
+<div class="container">
+	<div class="bs-docs-section">
+		<div class="row">
+			<div class="col-lg-2"></div>
+			<div class="col-lg-8">
+				<img src="./../img/accueil/insertion_logo-1.jpg" alt="Image accueil">
+			</div>
+			<div class="col-lg-2"></div>
+		</div>
+	</div>
+</div>
 
 <br/>
 <br/>

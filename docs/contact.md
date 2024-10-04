@@ -5,6 +5,15 @@ authors:
     - Laurent Faber
 date: 2023-09-06
 ---
+<div class="container">
+	<div class="bs-docs-section">
+		<div class="row">
+			<div class="col-lg-12">
+				<img src="./../img/contact/PTROQ240916_SIMPLE.jpg" width="66%" height="66%" alt="Logo du club">
+			</div>
+		</div>
+	</div>
+</div>
 <div markdown="1" class="container">
 
 # Contactez nous

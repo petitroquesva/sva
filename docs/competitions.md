@@ -5,6 +5,7 @@ authors:
     - Laurent Faber
 date: 2023-10-06
 ---
+<br>
 <button type="button" class="btn btn-primary">
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-text" viewBox="0 0 16 16">
   <path d="M5.5 7a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5zM5 9.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 2a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5z"/>
@@ -12,6 +13,19 @@ date: 2023-10-06
 </svg>
 </button>&nbsp;Vous pouvez récupérer le [calendrier des compétitions 2023-2024](resources/competitions/2023-2024_Salles_et_calendriers_competitions.xlsx)
 <hr/>
+
+<div class="container">
+	<div class="bs-docs-section">
+		<div class="row">
+			<div class="col-lg-2"></div>
+			<div class="col-lg-8">
+				<img src="./../img/competitions/chessboard_clock.jpg" alt="Echiquier et pendule">
+			</div>
+			<div class="col-lg-2"></div>
+		</div>
+	</div>
+</div>
+<br>
 
 # Interclub Adultes Nationale 2 Groupe Nord:
 
