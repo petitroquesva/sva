@@ -33,6 +33,7 @@ Le samedi à 14h, à la Maison des Associations:
 + joueurs confirmés (salle Uranus)
 
 <br>
+
 ## Cours adultes
 
 Le samedi à 15h15, à la Maison des Associations, salle Uranus
