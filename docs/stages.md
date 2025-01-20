@@ -5,10 +5,22 @@ authors:
     - Laurent Faber
 date: 2023-09-06
 ---
-# Stage tous niveaux Noël 2024 à Ville d'Avray (92):
+# Stage tous niveaux. Initiation et perfectionnement du 17 au 21 février 2025 à Ville d'Avray (92):
 
 <p markdown="1">
-Pour plus d'informations sur le stage du 23 au 27 décembre 2024, cliquez [ici](resources/stages/annonce_stages_vda_fin_annee_2024.docx)
+Pour plus d'informations sur le stage du 17 au 21 février 2025, cliquez [ici](resources/stages/annonce_stage_vda_17-21_02_2025.docx)
 </p>
 
-<img src="./../img/stages/affiche_vda_noel_2024.jpg" alt="Affiche stage Noël 2024">
+<img src="./../img/stages/affiche_vda_17-21_02_2025.jpg" alt="Affiche stage du 17 au 21 février 2025">
+
+<br>
+<hr>
+<br>
+
+# Stage tous niveaux. Initiation et perfectionnement du 24 au 28 février 2025 à Ville d'Avray (92):
+
+<p markdown="1">
+Pour plus d'informations sur le stage du 24 au 28 février 2025, cliquez [ici](resources/stages/annonce_stage_vda_24-28_02_2025.docx)
+</p>
+
+<img src="./../img/stages/affiche_vda_24-28_02_2025.jpg" alt="Affiche stage du 24 au 28 février 2025">
