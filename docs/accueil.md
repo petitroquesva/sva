@@ -28,10 +28,10 @@ date: 2023-09-06
 				<div class="bs-component">
 <a href="./../stages">
 					<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-						<div class="card-header" align="center">Stage d'échecs tous niveaux de février 2025</div>
+						<div class="card-header" align="center">Stage d'échecs février 2025</div>
 						<div class="card-body">
                             <img src="./../img/stages/cours.png" alt="Cours echecs au tableau">
-							<p class="card-text" align="center">Informations sur les 2 stages des vacances de Février à Ville d'Avray.</p>
+							<p class="card-text" align="center">Informations sur les 2 stages des vacances de février à Ville d'Avray.</p>
 						</div>
 					</div>
 				</div>
