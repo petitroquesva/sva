@@ -4,8 +4,11 @@
 ## SVA: https://github.com/petitroquesva/sva.git                                                    ##
 ## git remote show origin: https://github.com/petitroquesva/sva.git                                 ##
 ######################################################################################################
-
-
+##                                                                                                  ##
+## Répertoire bureau: C:\Users\LEEF6251\GIT\SVA                                                     ##
+## Répertoire maison: D:\Users\laurf\Documents\Git\SVA                                              ##
+##                                                                                                  ##
+######################################################################################################
 
 cd C:\Users\LEEF6251\GIT\
 
@@ -13,18 +16,21 @@ mkdir SVA
 mkdir petitroquesva.github.io
 
 
-cd SVA
+SVA_HOME_DIR=C:\Users\LEEF6251\GIT\SVA
+SVA_HOME_DIR=D:\Users\laurf\Documents\Git\SVA 
+
+cd $SVA_HOME_DIR
 
 #Création environnement virtuel avec python 3.11
 
-python -m venv C:\Users\LEEF6251\GIT\SVA\venv
+python -m venv $SVA_HOME_DIR\venv
 
 
 #Si besoin de bypasser le proxy:
 SET HTTP_PROXY=http://127.0.0.1:3128
 SET HTTPS_PROXY=http://127.0.0.1:3128
 
-cd C:\Users\LEEF6251\GIT\SVA
+cd $SVA_HOME_DIR
 
 #Activer l'environnement virtuel
 .\venv\Scripts\activate
@@ -59,7 +65,7 @@ python -m pip install mkdocs-blogging-plugin
 pip freeze > requirements.txt
 
 #Copier les librairies javascript suivantes pour finaliser l'installation de bootstrap:
-cd C:\Users\LEEF6251\GIT\SVA
+cd $SVA_HOME_DIR
 mkdir custom_theme
 cd custom_theme
 mkdir js
