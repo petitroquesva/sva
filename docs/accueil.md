@@ -26,12 +26,12 @@ date: 2023-09-06
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="bs-component">
-<a href="./../stages">
+<a href="./../blog/blog14">
 					<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-						<div class="card-header" align="center">Stage jeunes avril 2025</div>
+						<div class="card-header" align="center">Championnat Individuel des Hauts-de-Seine</div>
 						<div class="card-body">
-                            <img src="./../img/stages/cours.png" alt="Cours echecs au tableau">
-							<p class="card-text" align="center">Informations sur le stage d'avril à Ville d'Avray.</p>
+                            <img src="./../img/competitions/chessboard_clock.jpg" alt="Echiquier et pendule">
+							<p class="card-text" align="center">ELO < 2200</p>
 						</div>
 					</div>
 				</div>
