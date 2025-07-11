@@ -26,12 +26,11 @@ date: 2023-09-06
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="bs-component">
-<a href="./../blog/blog14">
+<a href="./../blog/blog15">
 					<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-						<div class="card-header" align="center">Championnat Individuel des Hauts-de-Seine</div>
+						<div class="card-header" align="center">Inscription 32ème Open de Sèvres Ville d'Avray</div>
 						<div class="card-body">
-                            <img src="./../img/competitions/chessboard_clock.jpg" alt="Echiquier et pendule">
-							<p class="card-text" align="center">ELO < 2200</p>
+                            <img src="./../img/open/fiche_renseignement_32eme_open.png" alt="Fiche renseignement 32ème open de Sèvres Ville d'Avray">
 						</div>
 					</div>
 				</div>
@@ -40,7 +39,7 @@ date: 2023-09-06
 				<div class="bs-component">
 <a href="./../inscription">
 					<div class="card text-black border-secondary mb-3" style="max-width: 20rem;">
-                        <div class="card-header" align="center">Inscription au club saison 2024-2025</div>
+                        <div class="card-header" align="center">Inscription au club saison 2025-2026</div>
 						<div class="card-body">
                             <img src="./../img/accueil/inscrivez_vous.jpg" alt="Inscrivez-vous">
 							<p class="card-text" align="center">Pour vous inscrire au club c'est par ici.</p>
