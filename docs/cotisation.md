@@ -43,9 +43,9 @@ Le dispositif <a href="https://www.passplus.fr/Beneficiaire/LandingPage.aspx?Ret
 
 Peuvent en bénéficier:
 
-+ Tous les jeunes domiciliés et/ou scolarisés dans les Hauts-de-Seine ou les Yvelines, dès leur entrée en 6e jusqu'à leur majorité.
++ Tous les collégiens domiciliés et/ou scolarisés dans les Hauts-de-Seine ou les Yvelines.
 
-+ Les jeunes de 11 à 18 ans, domiciliés dans les Hauts-de-Seine ou les Yvelines, accueillis dans des établissements spécialisés (IME, IMPRO…).
++ Les jeunes de 11 à 16 ans, domiciliés dans les Hauts-de-Seine ou les Yvelines, accueillis dans des établissements spécialisés (IME, IMPRO…).
 
 Les inscriptions se font gratuitement sur Internet en remplissant le formulaire d’inscription.
 
@@ -54,3 +54,8 @@ Lorsque vous aurez la carte Pass+, pour choisir le Petit Roque de Sèvres Ville 
 # Pass Jeunes Culture et Sport de la ville de Sèvres
 
 Le Pass Jeunes Culture et Sport de la Ville de Sèvres s’adresse aux élèves inscrits en CM1 ou CM2 dans une école de Sèvres. Il a la forme d’un chèque d’une valeur de 50 € pour la pratique d’activités extra-scolaires des enfants. Ce chèque peut ainsi servir de moyen de paiement pour l’inscription auprès du Petit Roque SVA.
+
+
+# Dispositif Labaz
+
+Le Petit Roque SVA a souscrit au dispositif Labaz de la région Ile-de-France. Le dispositif Labaz accorde une aide de 100 € et s'adresse à tous les jeunes de 15 à 17 ans au 1er septembre 2024 afin qu'ils puissent s'inscrire dans une activité culturelle ou sportive.
