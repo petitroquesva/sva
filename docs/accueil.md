@@ -24,6 +24,27 @@ date: 2023-09-06
 <div class="container">
 	<div class="bs-docs-section">
 		<div class="row">
+			<div class="col-lg-2"></div>
+			<div class="col-lg-8">
+				<div class="card text-white bg-primary">
+					<div class="card-header" align="center">
+						<div class="card-body">
+						<p style="font-size:2em;">Venez nous retrouver au forum des associations de Sèvres, stand n° 88, samedi 6 septembre de 10h à 18h</p>
+						<p style="font-size:1.5em;">Téléchargez le <a href="./../resources/forum/Forum_Associations_2025.pdf" style=color:#ffffff;>programme du forum</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-2"></div>
+		</div>
+	</div>
+</div>
+
+<br/>
+<br/>
+<div class="container">
+	<div class="bs-docs-section">
+		<div class="row">
 			<div class="col-lg-6">
 				<div class="bs-component">
 <a href="./../blog/blog15">
