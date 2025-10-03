@@ -78,8 +78,8 @@ Localisation
       <td>X</td>
     </tr>
     <tr class="table-secondary">
-      <th scope="row">Vice-Présidente</th>
-      <td>My Tran Mimard</td>
+      <th scope="row">Vice-Président</th>
+      <td>Eric Larzilliere</td>
       <td>X</td>
       <td>X</td>
     </tr>
@@ -114,7 +114,7 @@ Localisation
     </tr>
     <tr class="table-secondary">
       <th scope="row">Administrateur</th>
-      <td>Antoine Chartier</td>
+      <td>Jean-Bernard Roulet</td>
       <td>X</td>
       <td></td>
     </tr>
@@ -125,14 +125,8 @@ Localisation
       <td></td>
     </tr>
     <tr class="table-secondary">
-      <th scope="row">Administrateur</th>
+      <th scope="row">Administrateur & Webmestre</th>
       <td>Laurent Faber</td>
-      <td>X</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">Administrateur</th>
-      <td>Eric Larzilliere</td>
       <td>X</td>
       <td></td>
     </tr>

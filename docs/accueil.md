@@ -29,8 +29,7 @@ date: 2023-09-06
 				<div class="card text-white bg-primary">
 					<div class="card-header" align="center">
 						<div class="card-body">
-						<p style="font-size:2em;">Venez nous retrouver au forum des associations de Sèvres, stand n° 88, samedi 6 septembre de 10h à 18h</p>
-						<p style="font-size:1.5em;">Téléchargez le <a href="./../resources/forum/Forum_Associations_2025.pdf" style=color:#ffffff;>programme du forum</a></p>
+						<p style="font-size:1.5em;"><a href="./../blog/blog15" style=color:#ffffff;>Retrouvez les photos et le résultat du 32ème Open Rapide de Sèvres</a></p>
 						</div>
 					</div>
 				</div>
@@ -47,11 +46,12 @@ date: 2023-09-06
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="bs-component">
-<a href="./../blog/blog15">
+<a href="./../competitions">
 					<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-						<div class="card-header" align="center">Inscription 32ème Open de Sèvres Ville d'Avray</div>
+						<div class="card-header" align="center">Compétitions</div>
 						<div class="card-body">
-                            <img src="./../img/open/fiche_renseignement_32eme_open.png" alt="Fiche renseignement 32ème open de Sèvres Ville d'Avray">
+							<img src="./../img/competitions/chessboard_clock.jpg" alt="Echiquier et pendule">
+							<p class="card-text" align="center">Retrouvez tous les informations</p>
 						</div>
 					</div>
 				</div>
@@ -66,7 +66,7 @@ date: 2023-09-06
 							<p class="card-text" align="center">Pour vous inscrire au club c'est par ici.</p>
 						</div>
                     </div>
-<a></div>
+</a></div>
 				</div>
 			</div>
 		</div>
