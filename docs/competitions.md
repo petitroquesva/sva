@@ -20,6 +20,9 @@ date: 2023-10-06
 </div>
 <br>
 
+# Télécharger le [planning des compétitions et des salles](resources/competitions/2025-2026_Salles_et_calendriers_competitions.xlsx) pour la saison 2025-2026.
+<br>
+
 # Interclub Adultes Nationale 2 Groupe Nord-Ouest:
 
 <button type="button" class="btn btn-primary">

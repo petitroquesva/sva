@@ -1,0 +1,491 @@
+commit 18019bdf19ba11bfa751d0bd702005c6c2c312b7
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Fri Oct 3 19:56:08 2025 +0200
+
+    CR open rapide, MAJ contacts et competitions
+
+commit 25964bc8007812d3647a06206121101c15bbf6f8
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Thu Aug 21 18:01:56 2025 +0200
+
+    accueil avec annonce forum associations
+
+commit 807dd67ccfbf99fad8238f09e2db225e34f14d06
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Wed Jul 16 22:05:58 2025 +0200
+
+    ajout dispositif Labaz et modif pass
+
+commit 5d4197f825467d2077f2ab7d0ed341727453a539
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Sun Jul 13 17:55:01 2025 +0200
+
+    nettoyage pages accueil
+
+commit ef6232bf95f59c93da22cc7b75326eefc4adaede
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Fri Jul 11 10:48:47 2025 +0200
+
+    inscription 2025 et open rapide
+
+commit 69591d9bbb41b43808aab0619c991fe07ce27cad
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Wed Apr 23 19:06:23 2025 +0200
+
+    championnat HdS 2025
+
+commit 1f26f89ce15e979e3615885dfdd4a1f0da507436
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Fri Mar 28 11:11:31 2025 +0100
+
+    stage avril 2025
+
+commit f7b60df574bb7314c4279b4326009b2b4af6431d
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Fri Mar 28 10:53:52 2025 +0100
+
+    MAJ readme
+
+commit 8b783237878d4536d58de32668cbb79bdaa74354
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Mon Jan 20 15:50:11 2025 +0100
+
+    correction stage semaine 1
+
+commit 007c8f4d2a47083ca67199df7f8f16d666920ed2
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Mon Jan 20 11:28:57 2025 +0100
+
+    correctif stages
+
+commit 1dd6c9aca8a7fb63a107be434e150474988b681d
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Mon Jan 20 11:26:11 2025 +0100
+
+    stages février 2025
+
+commit 03e5769fa19ad923fa29f8207855ae22813f313e
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Thu Nov 21 18:13:26 2024 +0100
+
+    Ajout stage Noël 2024
+
+commit de5122d7a08dac18c78f39b09cb2af320dca294d
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Tue Oct 8 14:10:19 2024 +0200
+
+    changement meta robots
+
+commit 999d3045831a7d97897be247d6b7fcb1fefc3aea
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Fri Oct 4 15:50:31 2024 +0200
+
+    ajout des logos et images
+
+commit 8268080935790f76042d8065624486ce09f844d9
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Fri Oct 4 14:49:38 2024 +0200
+
+    ajout stages et compétitions
+
+commit 4087455d91be565a84077f20ba7f82fd2c341896
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Fri Jul 19 17:51:00 2024 +0200
+
+    mise en place inscription open et club - billeterie
+
+commit 8eacadf1bfa59cc973bf5ec72aa20cd3e940804d
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Mon Jul 15 10:17:29 2024 +0200
+
+    desactivation temporaire paiement carte
+
+commit baf8fa7e5d549d91112d16c79d240e3f517a1900
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Mon Jul 15 10:10:35 2024 +0200
+
+    correction licences
+
+commit b209bbb4b370f12ed98c31cd44b45b10068cd440
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Fri Jul 12 14:37:38 2024 +0200
+
+    mise à jour 31ème open, contacts et inscription
+
+commit 3790f9dec354eae8361cf9d989d9fb1e43bca236
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Fri Jul 5 09:53:12 2024 +0200
+
+    page accueil vacances
+
+commit fbc40d14eb4631d6f19c8dd2667cd5f4028ce4be
+Author: petitroquesva <petitroquesva@gmail.com>
+Date:   Sun Jun 9 18:01:26 2024 +0200
+
+    modif
+
+commit 131b792b4240457245c660e8ecf0c844c964c8b3
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Sun Jun 9 17:33:12 2024 +0200
+
+    ajout bloc Actualités page accueil
+
+commit 45f7ef492732a44fcc44c503c9b0a0e7d014b0e9
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Sun Jun 9 16:50:27 2024 +0200
+
+    page du blog pour AG 2024
+
+commit b2c200f516a354eccfcc14ca7cb90f52e9eec861
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue May 28 16:00:01 2024 +0200
+
+    organisation simultanée
+
+commit 024c9536d27d6b3a2986f116923c2f3fae83db16
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon May 6 14:23:54 2024 +0200
+
+    'orthographe'
+
+commit 22dc1afef9f730b285ac38adc217d83396b97990
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon May 6 11:30:37 2024 +0200
+
+    'correctif'
+
+commit c88047a1e5b67ade9b001a7676f266e4a7b83fed
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon May 6 11:24:48 2024 +0200
+
+    'Guy'
+
+commit 301f46dc953649c44c3e3a9628b356225014f993
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Jan 15 16:20:38 2024 +0100
+
+    bascule sur page accueil compétitions
+
+commit 6ef13e6589ba3fee7e5c6662fdb8018b6d02fbc1
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Jan 9 10:56:31 2024 +0100
+
+    ajout blog sur calcul ELO
+
+commit 9cbc47e732a9c9a232e74119a5ec1b0c3c91f544
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Dec 18 18:51:34 2023 +0100
+
+    nouvelle image Lauréats Sèvres 2023
+
+commit 04f7d7e6acf3bb8f8ae6dc1d9a5a467812825757
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Dec 11 17:54:56 2023 +0100
+
+    article v2
+
+commit 4c88113704aa551654f32d1bc403a75631ede271
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Dec 11 17:20:09 2023 +0100
+
+    article pour Gérard Masson
+
+commit 3c46c7ec7418c556de6741c9f04fdb3d385a432c
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Dec 4 11:53:55 2023 +0100
+
+    modification adresse postale du club
+
+commit df4035d339b3ced409972b462f656470f7ed7dc8
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Nov 10 16:08:40 2023 +0100
+
+    CR 30ème open
+
+commit 6fc48d080b5424ef34008e3b52d0b3219f6b0a31
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Nov 10 15:36:02 2023 +0100
+
+    CR 30ème open
+
+commit 24594e7be4973c0456714efc18815638c0eadcab
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Nov 10 11:20:53 2023 +0100
+
+    POC 30ème open
+
+commit a4f6f0e066d324f8c23b26b836e451a9d116f313
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Thu Nov 9 14:14:28 2023 +0100
+
+    stage fin 2023
+
+commit 3cd0ffd98c4c87eed6b95bb2b09bfa5377f8b883
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Nov 7 16:47:45 2023 +0100
+
+    correction coquille + google analytics
+
+commit a40ad0a736efb547d7b4b69a90680cb118b6c02f
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Nov 7 13:42:12 2023 +0100
+
+    correction coquille page accueil + mise à jour compétitions et inscription
+
+commit 82e1af4d2e86d8e1ec70971f3213372a58e44776
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Nov 6 15:03:56 2023 +0100
+
+    ajout problème club
+
+commit 6f924fcaad9e07a77a47dc5b3787d66cfc99cf72
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Oct 27 14:33:53 2023 +0200
+
+    ajout entrée blog sur la reprise des interclubs
+
+commit 602d887a5acb4b41160fffae67940fa707fb74ce
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Oct 24 16:07:29 2023 +0200
+
+    ajout information pour déploiement sur GitHub
+
+commit 49daf16261db267d25f255d8360ce605971c3b77
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Oct 24 15:59:35 2023 +0200
+
+    retour arrière, il faut un site_url
+
+commit f716b9d1d8d4c01ffdf978f9a463e41456834f80
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Oct 24 15:35:05 2023 +0200
+
+    3ème test en supprimant site_url
+
+commit 9ab8b30afa30d2bc5e71fa8546350537c9fa5636
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Oct 24 14:19:02 2023 +0200
+
+    retour arrière suite échec test
+
+commit 0c6ab71e37a4df2a9f69f8599a1b5220154bf97c
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Oct 24 12:17:09 2023 +0200
+
+    test URL simplifiée
+
+commit 5768cf333fc66e83da0a7383aa2fc7554a60e4a3
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Oct 16 14:39:48 2023 +0200
+
+    résolution problème page accueil et blog
+
+commit 944f8bb8a19fc20850abc92b897a3588e4153e81
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Oct 16 14:25:06 2023 +0200
+
+    correction url
+
+commit ca0524313eb5174f1d21b6b69eb8f92f488971f2
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Oct 16 11:49:28 2023 +0200
+
+    changement URL cible
+
+commit 01ef2ae07f125089668ab871fa9099bd59bf87be
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Oct 10 10:26:27 2023 +0200
+
+    correction site_url
+
+commit c7e42aa0a412c96a853ab6d4a1d56959a03d3020
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Oct 10 10:04:06 2023 +0200
+
+    création de la page d'accueil stage et ajout d'une page stage sur Toussaint 2023 + entrée blog + suppression bouton prev next
+
+commit 127db2235b7c3bea8d1ddaad072d993e4c5adf25
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Oct 9 17:28:54 2023 +0200
+
+    ajout du contenu de la page compétitions et refonte des pages d'accueil pour réutilisation
+
+commit 7430472aa8013005ec4ee4a4953b35ecc6aba445
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Oct 6 18:43:41 2023 +0200
+
+    ajout page compétitions
+
+commit cf4deab2c6471d94c731990b7f5456d67934bae5
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Oct 6 15:59:48 2023 +0200
+
+    ajout page cotisation dans le menu
+
+commit a32d2168a2812328a7ddb0674b0ca841518c6e06
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Oct 6 15:52:28 2023 +0200
+
+    ajout de l'extension md-html + refonte pages contact et inscription
+
+commit 839ae501bc64e2c7e5987b82cecc4ec45045c01a
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Sep 8 16:25:56 2023 +0200
+
+    ajout de cartes googlemap
+
+commit 5a8c6b62fd8e697723b225b267bc63c1a722cdc9
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Sep 8 16:04:17 2023 +0200
+
+    page accueil_2 ajout problèmes
+
+commit d15618cd44d9d3c378018ea4b090562dd8e25958
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Sep 8 15:49:08 2023 +0200
+
+    page accueil - présentations possibles
+
+commit c2c6bbbe9c0aa0a02a0278e80f10ae2a67422209
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Sep 8 15:11:21 2023 +0200
+
+    ajout pour responsive
+
+commit 7e1f957b8b420e19c8d74303b723f36c4ddcdef0
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Sep 8 14:51:55 2023 +0200
+
+    amélioration des pages cours et administratif
+
+commit 990092446fe08a21111461d828ca00b84d8766b4
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Sep 8 14:15:26 2023 +0200
+
+    refactoring des 2 pages du blog
+
+commit fe83883fd438982794e69fcdb6087e761d295dff
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Sep 8 11:53:44 2023 +0200
+
+    rédaction de 2 pages pour le blog
+
+commit dee52a452c02ba413313e0f26a7b7b18c9f8cab9
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Wed Sep 6 17:09:38 2023 +0200
+
+    modification sur la page des liens
+
+commit 66486a900aefbd08a570ee5969efd4004c3246e9
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Wed Sep 6 14:01:52 2023 +0200
+
+    ajout des logs pour les liens
+
+commit 23b1acb0956d59d13304e62089e4dcf54aa6290f
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Wed Sep 6 12:18:31 2023 +0200
+
+    ajout d'informations metadata dans chaque page
+
+commit 959cd799913d47ed84654de4bcbe16d88ffbb5ce
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Sep 5 17:01:49 2023 +0200
+
+    exemples sur la page accueil
+
+commit d025265cae6106086bc340a20b9717cc6c4817ea
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Sep 5 16:10:00 2023 +0200
+
+    refonte pages administratif et contact + modification taille de police
+
+commit aea3e48d04bad9322bb3ea3e357c1b3af8bdb979
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Sep 5 14:52:22 2023 +0200
+
+    ajout de la page administratif
+
+commit 03b3142fe47d8bb6873595297498dcffde696fb0
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Sep 5 14:48:12 2023 +0200
+
+    ajout des pages Films et Histoire du Club
+
+commit b464719a7b325af2898abbb7cf8094cc81586fdb
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Tue Sep 5 14:44:31 2023 +0200
+
+    ajout des pages Problèmes, Ressources FFE, lectures et liens
+
+commit 5f2fba9af6892a00b4abbc0e210ed440d004f379
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Sep 4 17:39:26 2023 +0200
+
+    test page accueil avec des cartes
+
+commit ae8b2d6eb1f1b0c92c4ac03cf60828a46fe5c916
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Sep 4 17:09:57 2023 +0200
+
+    ajout des pages contact et effectifs
+
+commit 983abd562f67d3c0fff2b29e18568042cdff7c61
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Sep 4 17:03:00 2023 +0200
+
+    version regroupée horaires & cours dans la barre de navigation$
+
+commit adb7b572b5138308243964d3d9e8c08601b7b32d
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Sep 4 17:00:57 2023 +0200
+
+    ajout de la page sur les cours
+
+commit db036ab341a7d3e9928d1501b5f39ce20acf76aa
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Sep 4 16:57:13 2023 +0200
+
+    ajout de la page horaires
+
+commit 9e548eec5d27cc7dceab1b154cfec5cb565af778
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Sep 4 16:26:38 2023 +0200
+
+    mise en place de la structure du blog
+
+commit 12923d453d843b08552e34845d7a3a04fbae30ec
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Sep 4 15:32:28 2023 +0200
+
+    installation plugin Mkdocs Blogging Plugin + mise à jour documentation de référence
+
+commit f9a8271389aaca86d240e1c3bed4c3ed07f46e3d
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Mon Sep 4 15:20:27 2023 +0200
+
+    page inscription avec les 3 façons de présenter + page cotisation (à jour)
+
+commit 6db4beccb4298d9a2049e85e08c41e1860acecd8
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Sep 1 15:56:52 2023 +0200
+
+    quelques tweaks pour gérer bootstrap + synoptique inscription v2
+
+commit 48fce44ec74ff8eea1dd954e7f6e2f37410e801e
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Fri Sep 1 10:05:28 2023 +0200
+
+    synoptique inscription v1
+
+commit 7e58016566acaf9f8dd8cfd378eec24e71029f39
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Thu Aug 31 17:41:24 2023 +0200
+
+    création fichier requirements
+
+commit 4cf1566e00d73d5c5ad3bd072797946c4d95fa0a
+Author: Laurent Faber <laurent.faber@orange.com>
+Date:   Thu Aug 31 17:07:52 2023 +0200
+
+    premier commit après création du site mkdocs
