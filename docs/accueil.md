@@ -19,6 +19,28 @@ date: 2023-09-06
 	</div>
 </div>
 
+<br/>
+<br/>
+<div class="container">
+	<div class="bs-docs-section">
+		<div class="row">
+			<div class="col-lg-2"></div>
+			<div class="col-lg-8">
+				<div class="card text-white bg-primary">
+					<div class="card-header" align="center">
+						<div class="card-body">
+						<p style="font-size:1.5em;">Samedi 10 janvier 2026 au Club, c'est la traditionnelle <b>galette des Rois</b></p>
+						<p>galette des jeunes à <b>15h15</b> à l'issue du cours débutants et moyens</p>
+						<p>galette à <b>16h30</b> après le cours de Slim</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-2"></div>
+		</div>
+	</div>
+</div>
+
 
 <br/>
 <br/>
