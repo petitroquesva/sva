@@ -26,12 +26,14 @@ date: 2023-09-06
 		<div class="row">
 			<div class="col-lg-2"></div>
 			<div class="col-lg-8">
+			<a href="./../blog/blog16">
 				<div class="card text-white bg-primary">
 					<div class="card-header" align="center">
 						<div class="card-body">
-						<p style="font-size:1.5em;">Samedi 10 janvier 2026 au Club, c'est la traditionnelle <b>galette des Rois</b></p>
-						<p>galette des jeunes à <b>15h15</b> à l'issue du cours débutants et moyens</p>
-						<p>galette à <b>16h30</b> après le cours de Slim</p>
+						<p style="font-size:1.5em;" align="center">Tournoi interne du Petit Roque,</p>
+						<p style="font-size:1.5em;" align="center">Samedi 28 mars 2026 de 14h à 16h30</p>
+						<img src="./../img/accueil/tournoi_interne_petit_roque.png" alt="Tournoi interne du Petit Roque">
+						<p style="font-size:1.5em;">Tous les détails dans le blog du club</p>
 						</div>
 					</div>
 				</div>
