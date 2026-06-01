@@ -31,9 +31,24 @@ date: 2023-09-06
 					<div class="card-header" align="center">
 						<div class="card-body">
 						<p style="font-size:1.5em;" align="center">Tournoi interne du Petit Roque,</p>
-						<p style="font-size:1.5em;" align="center">Samedi 28 mars 2026 de 14h à 16h30</p>
+						<p style="font-size:1.5em;" align="center">Samedi 13 juin 2026 de 14h à 16h30</p>
 						<img src="./../img/accueil/tournoi_interne_petit_roque.png" alt="Tournoi interne du Petit Roque">
 						<p style="font-size:1.5em;">Tous les détails dans le blog du club</p>
+						</div>
+					</div>
+				</div>
+				</a>
+			</div>
+			<div class="col-lg-2"></div>
+		</div>
+		<div class="row">
+			<div class="col-lg-2"></div>
+			<div class="col-lg-8">
+				<div class="card text-red bg-secondary">
+					<div class="card-header" align="center">
+						<div class="card-body">
+						<p style="font-size:1.5em;" align="center">Assemblée Générale du club,</p>
+						<p style="font-size:1.5em;" align="center">Samedi 20 juin 2026 à 15h30</p>
 						</div>
 					</div>
 				</div>

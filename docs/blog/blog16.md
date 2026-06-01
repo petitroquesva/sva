@@ -12,7 +12,7 @@ tags:
 <img src="./../img/tournoi_interne_petit_roque.png" class="card-img-top" alt="Tournoi interne du Petit Roque">
 
 Nous avons le plaisir de vous inviter à participer au prochain **tournoi interne du Petit Roque**, qui
-se tiendra le **samedi 28 mars**, de **14h à 16h30**, dans notre salle habituelle.
+se tiendra le **samedi 13 juin 2026**, de **14h à 16h30**, dans notre salle habituelle.
 
 Ce tournoi est **ouvert à tous les licenciés du club**, quel que soit leur niveau.
 
