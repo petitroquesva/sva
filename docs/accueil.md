@@ -24,54 +24,13 @@ date: 2023-09-06
 <div class="container">
 	<div class="bs-docs-section">
 		<div class="row">
-			<div class="col-lg-2"></div>
-			<div class="col-lg-8">
-			<a href="./../blog/blog16">
-				<div class="card text-white bg-primary">
-					<div class="card-header" align="center">
-						<div class="card-body">
-						<p style="font-size:1.5em;" align="center">Tournoi interne du Petit Roque,</p>
-						<p style="font-size:1.5em;" align="center">Samedi 13 juin 2026 de 14h à 16h30</p>
-						<img src="./../img/accueil/tournoi_interne_petit_roque.png" alt="Tournoi interne du Petit Roque">
-						<p style="font-size:1.5em;">Tous les détails dans le blog du club</p>
-						</div>
-					</div>
-				</div>
-				</a>
-			</div>
-			<div class="col-lg-2"></div>
-		</div>
-		<div class="row">
-			<div class="col-lg-2"></div>
-			<div class="col-lg-8">
-				<div class="card text-red bg-secondary">
-					<div class="card-header" align="center">
-						<div class="card-body">
-						<p style="font-size:1.5em;" align="center">Assemblée Générale du club,</p>
-						<p style="font-size:1.5em;" align="center">Samedi 20 juin 2026 à 15h30</p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-2"></div>
-		</div>
-	</div>
-</div>
-
-
-<br/>
-<br/>
-<div class="container">
-	<div class="bs-docs-section">
-		<div class="row">
 			<div class="col-lg-6">
 				<div class="bs-component">
-<a href="./../competitions">
+<a href="./../blog/blog17">
 					<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-						<div class="card-header" align="center">Compétitions</div>
+						<div class="card-header" align="center">Inscription 33ème Open de Sèvres Ville d'Avray dimanche 20 septembre 2026</div>
 						<div class="card-body">
-							<img src="./../img/competitions/chessboard_clock.jpg" alt="Echiquier et pendule">
-							<p class="card-text" align="center">Retrouvez tous les informations</p>
+                            <img src="./../img/open/fiche_renseignement_33eme_open.png" alt="Fiche renseignement 33ème open de Sèvres Ville d'Avray">
 						</div>
 					</div>
 				</div>
@@ -80,13 +39,13 @@ date: 2023-09-06
 				<div class="bs-component">
 <a href="./../inscription">
 					<div class="card text-black border-secondary mb-3" style="max-width: 20rem;">
-                        <div class="card-header" align="center">Inscription au club saison 2025-2026</div>
+                        <div class="card-header" align="center">Inscription au club saison 2026-2027</div>
 						<div class="card-body">
                             <img src="./../img/accueil/inscrivez_vous.jpg" alt="Inscrivez-vous">
 							<p class="card-text" align="center">Pour vous inscrire au club c'est par ici.</p>
 						</div>
                     </div>
-</a></div>
+<a></div>
 				</div>
 			</div>
 		</div>

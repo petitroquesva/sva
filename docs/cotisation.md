@@ -14,26 +14,26 @@ date: 2023-09-06
 
 Licence A                             | Total
 :------------------------------------ |:----------:
-Adulte et jeune né en 2015 ou avant   | 120 €
-Jeune né en 2016 ou après             | 150 €
+Adulte et jeune né en 2016 ou avant   | 120 €
+Jeune né en 2017 ou après             | 150 €
 
 ## Licence B
 
 Licence B                        | Total
 :------------------------------- |:----------:
-Adulte né en 2005 ou avant       | 95 €
+Adulte né en 2006 ou avant       | 95 €
 
 # Règlement
 
 Pour régler votre cotisation, vous pouvez:
 
-+ Venir au club en apportant votre [fiche inscription 2025-2026](resources/Fiche-inscription-2025-2026.docx) remplie.
++ Venir au club en apportant votre [fiche inscription 2026-2027](resources/Fiche-inscription-2026-2027.docx) remplie.
 
 + Si vous utilisez plusieurs moyens de paiement (cash, Pass, chèque bancaire ou chèque-vacances), veuillez contacter un
 des dirigeants avec votre fiche d’inscription renseignée.
 Vous pourrez aussi bénéficier d’une réduction de 20 € pour l’inscription d’un deuxième enfant.
 
-+ Payer votre inscription intégralement par carte bancaire <a target="_blank" href="https://www.billetweb.fr/inscription-au-petit-roque-sva-2025-2026"><img style="width:200px;" src="https://www.billetweb.fr/images/buttons/billetterie_bleu.png"></a>
++ Payer votre inscription intégralement par carte bancaire <a target="_blank" href="https://www.billetweb.fr/inscription-au-petit-roque-sva-2026-2027"><img style="width:200px;" src="https://www.billetweb.fr/images/buttons/billetterie_bleu.png"></a>
 
 # Dispositif Pass+
 
@@ -58,4 +58,4 @@ Le Pass Jeunes Culture et Sport de la Ville de Sèvres s’adresse aux élèves 
 
 # Dispositif Labaz
 
-Le Petit Roque SVA a souscrit au dispositif Labaz de la région Ile-de-France. Le dispositif Labaz accorde une aide de 100 € et s'adresse à tous les jeunes de 15 à 17 ans au 1er septembre 2024 afin qu'ils puissent s'inscrire dans une activité culturelle ou sportive.
+Le Petit Roque SVA a souscrit au dispositif Labaz de la région Ile-de-France. Le dispositif Labaz accorde une aide de 100 € et s'adresse à tous les jeunes de 15 à 17 ans au 1er septembre 2026 afin qu'ils puissent s'inscrire dans une activité culturelle ou sportive.
