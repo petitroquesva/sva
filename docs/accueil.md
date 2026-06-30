@@ -26,7 +26,7 @@ date: 2023-09-06
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="bs-component">
-<a href="./../blog/blog17">
+<a href="./../blog/blog18">
 					<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
 						<div class="card-header" align="center">Inscription 33ème Open de Sèvres Ville d'Avray dimanche 20 septembre 2026</div>
 						<div class="card-body">
