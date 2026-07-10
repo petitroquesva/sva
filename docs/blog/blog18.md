@@ -11,5 +11,9 @@ Le club d'échecs de Sèvres organise son 33ème open rapide le dimanche 20 sept
 <br>
 <p>Payer votre inscription intégralement par carte bancaire <a target="_blank" href="https://www.billetweb.fr/33eme-open-rapide-de-sevres"><img style="width:200px;" src="https://www.billetweb.fr/images/buttons/billetterie_bleu.png"></a>
 </p>
+<p>Liste des inscrits sur le site de la FFE <a target="_blank" href="https://echecs.asso.fr/FicheTournoi.aspx?Ref=72513">https://echecs.asso.fr/FicheTournoi.aspx?Ref=72513</a>
+</p>
 <br>
+<a href="https://echecs.asso.fr/FicheTournoi.aspx?Ref=72513">
 <img src="./../../img/open/fiche_renseignement_33eme_open.png" alt="Fiche renseignement 33ème open de Sèvres Ville d'Avray" style="width:75%">
+</a>
