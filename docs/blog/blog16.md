@@ -19,14 +19,14 @@ Ce tournoi est **ouvert à tous les licenciés du club**, quel que soit leur niv
 Il s’agit d’un tournoi convivial : **il ne sera ni homologué ni comptabilisé pour le classement**,
 mais **de petits prix récompenseront les joueurs les plus méritants**.
 
-##Format du tournoi
+## Format du tournoi
 **4 ou 5 rondes** selon l’avancement du tournoi
 **Cadence : 10 minutes + 2 secondes par coup**
 
 Fin du tournoi prévue **vers 16h30** (notamment pour permettre aux plus jeunes de terminer
 à une heure raisonnable)
 
-##Inscriptions
+## Inscriptions
 Pour participer, il vous suffira de vous présenter **au club à 13h45**, afin que le tournoi puisse
 commencer à **14h précises**.
 

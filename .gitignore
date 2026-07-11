@@ -3,3 +3,4 @@ venv/
 site/
 .vscode/
 .kilo/
+.markdownlint.json

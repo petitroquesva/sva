@@ -8,6 +8,7 @@ tags:
 ---
 
 ## A - Championnat
+
 Le Championnat Individuel des Hauts-de-Seine (Elo < 2200) qui aura lieu les <strong>samedi 10 et dimanche 11 mai 2025</strong> à la <strong>salle polyvalente du gymnase de l’Arc Sportif de Colombes</strong>.
 <br/>
 <br/>
@@ -21,6 +22,7 @@ Cette salle construite à l'occasion des Jeux Olympiques 2024 (et pas 1924 que l
 Près de 2000 € de prix récompenseront tous les talents !
 
 ## A - Catégorie générale
+
 ### Prix au général:
 
 + 1er 200 €
@@ -37,6 +39,7 @@ Près de 2000 € de prix récompenseront tous les talents !
 + Meilleur Elo Moins de 1600 : 80 €
 
 ## B - Catégorie département
+
 ### Prix du Département (réservés aux joueurs licenciés des Hauts-de-Seine):
 
 ### Prix au général :
@@ -54,6 +57,7 @@ Près de 2000 € de prix récompenseront tous les talents !
 + 1er Jeune (U12 ou plus jeune) : 60 €
 
 ## C - Catégorie Colombes
+
 ### Prix par catégorie (licence Colombes), sans contrainte sur le nombre de participants:
 
 + 1er Colombes: 80 €

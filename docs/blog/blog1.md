@@ -19,17 +19,17 @@ Voici les résultats, mitigés, de nos joueurs par open.</p>
 
 Saluons la belle performance de notre secrétaire, <strong>Gérard Masson</strong>, qui est le seul à gagner des points ELO (+15 pts !)
 
-##Open A:
+## Open A:
 
 - Pierre SAGUIN termine 64ème avec 4,5/9 et une perf à 1879 (-12 pts)
 
-##Open B:
+## Open B:
 
 - Pascal COLLIN termine 60ème avec 5/9 et une perf à 1621 (-4 pts)
 - Eric LARZILLIERE termine 160ème avec 3/9 et une perf à 1424 (-2 pts)
 - Gérard MASSON termine 95ème avec 4,5/9 et une perf à 1586 (+15 pts)
 - Leone ORIOL termine 151ème avec 3/9 et une perf à 1476 (-11 pts)
 
-##Open C:
+## Open C:
 
 - Yoan LARZILLIERE termine 19ème avec 6/9 et une perf à 1344 (-6 pts) 
