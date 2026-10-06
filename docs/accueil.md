@@ -23,19 +23,20 @@ date: 2023-09-06
 <br/>
 <br/>
 <div class="container">
-  <div class="bs-docs-section">
-    <div class="row">
-      <div class="col-lg-6">
-        <div class="bs-component">
-<a href="./../blog/blog18">
-          <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-            <div class="card-header" align="center">Inscription 33ème Open de Sèvres Ville d'Avray dimanche 20 septembre 2026</div>
-            <div class="card-body">
-                            <img src="./../img/open/fiche_renseignement_33eme_open.png" alt="Fiche renseignement 33ème open de Sèvres Ville d'Avray">
-            </div>
-          </div>
-        </div>
-      </div>
+	<div class="bs-docs-section">
+		<div class="row">
+			<div class="col-lg-6">
+				<div class="bs-component">
+<a href="./../competitions">
+					<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+						<div class="card-header" align="center">Compétitions</div>
+						<div class="card-body">
+							<img src="./../img/competitions/chessboard_clock.jpg" alt="Echiquier et pendule">
+							<p class="card-text" align="center">Retrouvez tous les informations</p>
+						</div>
+					</div>
+				</div>
+			</div>
       <div class="col-lg-6">
         <div class="bs-component">
 <a href="./../inscription">
